@@ -19,8 +19,6 @@ Required components to be installed: __Intelij IDEA__, __Postman__, __PostgreSQL
 git clone https://github.com/mrfurrypants/Spring_Batch_ETL
 ```
 
-![local_run](./images_in_readme/1.png "local_run")
-
 - Go to __File__ - __Project Structure__ and ensure that Java of version 17 is set up
 
 ![1](./images_in_readme/1.png "1")
